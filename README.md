@@ -1,3 +1,7 @@
+> [!NOTE]
+> **Mirror of [anote-ai/Adaptive-Intelligence-Layer-for-SmallSat-Earth-Observation](https://github.com/anote-ai/Adaptive-Intelligence-Layer-for-SmallSat-Earth-Observation).** Built at [Anote](https://github.com/anote-ai), which I founded, together with the contributors in this repository's commit history.
+> The original is the maintained version. Please open issues and PRs there.
+
 # Anote AAIL-EO Supporting Software Package
 
 This repository provides a lightweight, reviewable software demonstration of the key capabilities behind the **Anote Adaptive Intelligence Layer for SmallSat Earth Observation (AAIL-EO)** submission.
